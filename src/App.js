@@ -81,7 +81,9 @@ style={
         <h2 style= {this.style}>  Your Total Score :  {this.state.TotalUser}   </h2>
         <h2 style= {this.style}>  Computer Total :   {this.state.TotalComputer}    </h2>
 
-        -----------------------------------------
+       
+
+       
 
         <h1 style={this.style}>  {this.state.theWinner}   </h1>
       </div>
